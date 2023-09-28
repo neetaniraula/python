@@ -44,7 +44,6 @@ while True:
     else:
         print("Invalid category. Please choose from the avaiable categories.")
 
-        #print("Congratutaltions you got " + str(score) + " questions correct")
-        #print("Congratutaltions you got " + str((score / 5) * 100) + "%.")
+
 
 
